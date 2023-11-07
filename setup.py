@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="videoembed",
-    version="1.0.1",
+    version="1.0.2",
     author="Philipp Hewera",
     author_email="github.hewera@mailbox.org",
     description="Create embed codes from video URLs.",
@@ -21,7 +21,6 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     package_dir={"": "videoembed"},
-    packages=setuptools.find_packages(where="videoembed"),
     python_requires=">=3.8",
     install_requires=[
         "requests>=2.31.0",
