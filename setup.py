@@ -24,6 +24,6 @@ setuptools.setup(
     packages=setuptools.find_packages(where="videoembed"),
     python_requires=">=3.8",
     install_requires=[
-        "requests",
+        "requests>=2.31.0",
     ],
 )

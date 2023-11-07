@@ -3,10 +3,10 @@ name: main
 on:
   push:
     branches:
-      - main
+      - py-3.12
   pull_request:
     branches:
-      - main
+      - py-3.12
 
 jobs:
   build:
