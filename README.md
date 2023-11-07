@@ -1,6 +1,8 @@
 ![python](https://img.shields.io/badge/Python-3.8-blue)
 ![python](https://img.shields.io/badge/Python-3.9-blue)
 ![python](https://img.shields.io/badge/Python-3.10-blue)
+![python](https://img.shields.io/badge/Python-3.11-blue)
+![python](https://img.shields.io/badge/Python-3.12-blue)
 ![main](https://github.com/phewera/videoembed/actions/workflows/main.yml/badge.svg)
 
 # videoembed
