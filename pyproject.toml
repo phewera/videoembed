@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "videoembed"
-version = "1.0.4"
+version = "1.0.3"
 description = "Create embed codes from video URLs."
 readme = "README.md"
 authors = [{ name = "Philipp Hewera", email = "github.hewera@mailbox.org" }]
