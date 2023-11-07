@@ -20,7 +20,6 @@ setuptools.setup(
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
         "Operating System :: OS Independent",
     ],
-    package_dir={"": "videoembed"},
     python_requires=">=3.8",
     install_requires=[
         "requests>=2.31.0",
